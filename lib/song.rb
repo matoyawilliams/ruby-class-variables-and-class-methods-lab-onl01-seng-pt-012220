@@ -4,9 +4,7 @@ lass Song
   def self.count 
     @@count
   end 
-  
-
-  @@genres = []
+   @@genres = []
 
   
   def self.genres
